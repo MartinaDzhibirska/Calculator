@@ -1,0 +1,26 @@
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\App.g.cs
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\Calculator.g.resources
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\TheCalculator.baml
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\TheCalculator.g.cs
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\bin\Debug\Calculator.exe.config
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\bin\Debug\Calculator.exe
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\bin\Debug\Calculator.pdb
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\Calculator.exe
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\Calculator.pdb
+E:\Martina\WPF Tutorial\Calculator\CalculatorSolution\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\MD\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\MD\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\MD\Calculator\Calculator\obj\Debug\Calculator.pdb
+C:\MD\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\MD\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\MD\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\MD\Calculator\Calculator\obj\Debug\TheCalculator.baml
+C:\MD\Calculator\Calculator\obj\Debug\TheCalculator.g.cs
+C:\MD\Calculator\Calculator\obj\Debug\App.g.cs
+C:\MD\Calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\MD\Calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\MD\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\MD\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
